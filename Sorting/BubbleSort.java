@@ -48,5 +48,7 @@ public class BubbleSort {
         System.out.println("\nAfter Sorting:");
         display(A);
 
+        sc.close();
+
     }
 }
