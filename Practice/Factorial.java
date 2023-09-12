@@ -17,5 +17,6 @@ public class Factorial {
     else{
         System.out.println("Factorial is Not possible");
     }
+    sc.close();
    } 
 }
