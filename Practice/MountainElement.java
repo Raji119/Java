@@ -1,12 +1,5 @@
 public class MountainElement {
 
-     public static void main(String[] args) {
-            int[] num={0,5,6,7,3,2,1};
-            int target=3;
-            int index=searchElem(num, target);
-            System.out.println(index);
-
-        }
 
         public static int searchElem(int[] nums,int target){
             int peak=peak(nums);
