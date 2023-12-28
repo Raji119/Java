@@ -25,6 +25,7 @@ public class Fibonnaci {
         }else{
             System.out.println("Fibonnaci Series Cannot be Generated");
         }
+        sc.close();
     }
     
 }
